@@ -1,0 +1,24 @@
+.card {
+    border: 3px solid #000;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    margin: 20px;
+    width: 350px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 0px;
+}
+
+.card .content {
+    padding: 15px;
+    color: black;
+}
+
+.card .footer {
+    color: #fff;
+    padding: 10px;
+}
+
+.footer {
+    background-color: cadetblue;
+}
